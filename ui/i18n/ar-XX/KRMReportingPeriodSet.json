@@ -1,0 +1,20 @@
+{
+  "KRMReportingPeriodSet.AttributionTemplate.schema.field.objectId.label": "ٯففقهذعفهخد فثئحمشفث کٺ",
+  "KRMReportingPeriodSet.library.label.base.Accordion.attribution_template_details.details.title": "ٯففقهذعفهخد ځثئحمشفث ٺثفشهمس",
+  "KRMReportingPeriodSet.library.label.base.Button.save.label": "ڀشرث",
+  "KRMReportingPeriodSet.library.label.base.DropdownWidget.TypeDropdown.label": "جثحخقفهدل حثقهخڈ فغحث",
+  "KRMReportingPeriodSet.library.label.base.DropdownWidget.TypeDropdown.option.1.label": "ٺشفث ذشسثڈ",
+  "KRMReportingPeriodSet.library.label.base.DropdownWidget.TypeDropdown.option.2.label": "ځثقئ ذشسثڈ",
+  "KRMReportingPeriodSet.library.label.base.DropdownWidget.TypeDropdown.option.3.label": "کججإإ",
+  "KRMReportingPeriodSet.library.label.base.GenericSpreadsheetWidget.DateBasedSpreadsheet.label": "ڀحقثشڈساثثف",
+  "KRMReportingPeriodSet.library.label.base.GenericSpreadsheetWidget.TermBasedSpreadsheet.label": "ڀحقثشڈساثثف",
+  "KRMReportingPeriodSet.library.label.base.RadioButtonGroupWidget.reportTypeWidget.option.1.label": "ٺشفث ذشسثڈ",
+  "KRMReportingPeriodSet.library.label.base.RadioButtonGroupWidget.reportTypeWidget.option.2.label": "ےثقهخڈ",
+  "KRMReportingPeriodSet.library.label.base.RadioButtonGroupWidget.reportTypeWidget.option.3.label": "کججإ",
+  "KRMReportingPeriodSet.library.label.base.ReadonlyFieldWidget.name_readonly.label": "\\ ",
+  "KRMReportingPeriodSet.library.label.base.TabView.attribution_template_tabs.1.title": "ٺخزعئثدفشفهخد",
+  "KRMReportingPeriodSet.library.label.base.TabView.attribution_template_tabs.2.title": "ژاشدلث آهسفخقغ",
+  "KRMReportingPeriodSet.library.label.base.TabView.attribution_template_tabs.tabDetails.title": "ٺثفشهمس",
+  "KRMReportingPeriodSet.library.label.base.TabView.main_tabs.tabDetails.title": "ٺثفشهمس",
+  "undefined": "ځشذ"
+}
