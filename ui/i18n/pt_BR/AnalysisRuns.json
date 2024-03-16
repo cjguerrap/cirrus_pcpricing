@@ -1,0 +1,4 @@
+{
+  "AnalysisRuns.library.label.base.Template.ObjectManagerTemplate.label": "Página de template",
+  "AnalysisRuns.script.validation.summary.label": "Não é possível salvar uma execução de análise de produção quando ela faz referência a scripts que não sejam de produção."
+}
